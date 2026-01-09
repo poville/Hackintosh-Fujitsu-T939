@@ -11,6 +11,7 @@ Hackintosh-Fujitsu-T939
 | ---------------| -------- | ---------------------------------------------------------------------------------------- |
 | Sonoma 14.0    | 0.9.5    | <a href="https://github.com/poville/Hackintosh-Fujitsu-T939/tree/OC095Mac14.0">Here       | 
 | Sequoia 15.0.1 | 1.0.2    | <a href="https://github.com/poville/Hackintosh-Fujitsu-T939/tree/OC102Mac15.0.1">Here     |
+| Tahoe 26.2 | 1.0.6    | <a href="https://github.com/poville/Hackintosh-Fujitsu-T939/tree/OC106Mac26.2">Here     |
 
 </details>
 <details>
@@ -29,5 +30,5 @@ Hackintosh-Fujitsu-T939
 | BlueTooth | Intel Wireless-AC9569    |
 | Audio     | Realtek ALC255           |
 
-
+[^1]:After Sequoia 15.5, I change WIFI&BlueTooth chipset into BCM94352Z, so we can use AirDrop
 </details>
