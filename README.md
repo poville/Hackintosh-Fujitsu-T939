@@ -1,5 +1,6 @@
 # Hackintosh-Fujitsu-T939
 
+|  Hackintosh-Lenovo-T939  |        |
 |  ----                    | ------ |
 |  OpenCore                | 1.0.6  |
 |  MacOS                   | 26.2   |
