@@ -26,7 +26,7 @@ Hackintosh-Fujitsu-T939
 | Graphics  | Intel UHD 620            |
 | Display   | SHP141B LQ133M1JW01(13'1K)   |
 | Network   | Intel L219-LM            |
-| WiFi      | Intel Wireless-AC9569    |
+| WiFi      | Intel Wireless-AC9569[^1]    |
 | BlueTooth | Intel Wireless-AC9569    |
 | Audio     | Realtek ALC255           |
 
